@@ -1,0 +1,9 @@
+pandas
+numpy
+textblob
+matplotlib
+scikit-learn
+nltk
+tensorflow
+nltk.download('stopwords')
+nltk.download('wordnet')
